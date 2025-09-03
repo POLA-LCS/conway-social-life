@@ -1,4 +1,4 @@
-# Conway's Social Life. 🇪🇸
+# Conway's Social Life.
 El siguiente proyecto habla de un sitio web que permite a los usuarios crear estados iniciales del famoso juego  
 [Conway's Game Of Life](https://es.wikipedia.org/wiki/Juego_de_la_vida)  
 Esto es un proyecto web para mi escuela así que sientanse cómodos de utilizarlo mientras permanezca en fase de prueba.
