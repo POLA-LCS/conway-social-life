@@ -1,6 +1,7 @@
 # Conway's Social Life. 🇪🇸
 El siguiente proyecto habla de un sitio web que permite a los usuarios crear estados iniciales del famoso juego  
-[Conway's Game Of Life](https://es.wikipedia.org/wiki/Juego_de_la_vida)
+[Conway's Game Of Life](https://es.wikipedia.org/wiki/Juego_de_la_vida)  
+Esto es un proyecto web para mi escuela así que sientanse cómodos de utilizarlo mientras permanezca en fase de prueba.
 
 ## Estado actual
 Todos los esquemas se encuentran en [Diagramas](https://github.com/POLA-LCS/conway-social-life/diagrams/)
@@ -11,3 +12,6 @@ El proyecto está en fase de concepto y se necesita diagramar los siguientes esq
 - **DCD:** Diagrama de Caso de Uso.
 - **UMLS:** Diagrama de Secuencia. (UML)
 - **UMLA:** Diagrama de Actividades. (UML).
+
+## Licencia
+Este proyecto está sostenido con la [licencia del MIT](https://github.com/POLA-LCS/conway-social-life/LICENSE/).
