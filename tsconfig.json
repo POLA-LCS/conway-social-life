@@ -1,0 +1,24 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+        /* Opciones de la base */
+        "target": "ES2020",
+        "module": "node16",
+        "rootDir": "./src/frontend/ts",
+        "outDir": "./src/public/assets/js",
+        /* Comprobaciones de Tipos */
+        "strict": true,
+        "esModuleInterop": true,
+        /* Configuración de Bundlers/Módulos */
+        "moduleResolution": "node16",
+        "forceConsistentCasingInFileNames": true,
+        /* Emitir */
+        "skipLibCheck": true
+    },
+    "include": [
+        "src/frontend/ts/**/*"
+    ], /* 💡 AQUÍ: Solo incluye archivos dentro de esta ruta */
+    "exclude": [
+        "node_modules"
+    ]
+}
